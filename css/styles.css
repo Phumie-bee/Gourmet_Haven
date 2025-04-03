@@ -1,3 +1,7 @@
+body {
+  max-width: 100%;
+}
+
 .navbar-brand {
   font-family: "Libre Baskerville", serif;
   font-style: oblique;
@@ -28,11 +32,7 @@ section {
   min-height: 100vh;
 }
 section#contact {
-  min-height: 70vh;
-}
-
-.outline {
-  outline-color: red;
+  min-height: 85vh;
 }
 
 .hero {
