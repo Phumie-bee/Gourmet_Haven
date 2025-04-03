@@ -1,0 +1,72 @@
+.navbar-brand {
+  font-family: "Libre Baskerville", serif;
+  font-style: oblique;
+  font-weight: 400;
+}
+
+/* .gourmet_logo {
+  height: 5vh;
+  width: 5vh;
+  border-radius: 50%;
+} */
+
+/* body {
+  overflow-x: hidden;
+}
+img {
+  max-width: 100%;
+  height: auto;
+} */
+
+.navbar-text {
+  font-family: "Libre Baskerville", serif;
+  font-style: oblique;
+  font-weight: 400;
+}
+
+section {
+  min-height: 100vh;
+}
+section#contact {
+  min-height: 70vh;
+}
+
+.outline {
+  outline-color: red;
+}
+
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../asset/bg-gourmet.jpg);
+
+  height: 93vh;
+  background-size: cover;
+  background-position: end;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+/* .contact_img {
+  background-image: url(asset/ChatGPT\ Image\ Mar\ 29\,\ 2025\,\ 03_56_11\ PM.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 30vh;
+  width: 30vh;
+  border-radius: 50%;
+} */
+
+.store_hours {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* @media screen and (max-width: 576px) {
+  #menu {
+  }
+} */
